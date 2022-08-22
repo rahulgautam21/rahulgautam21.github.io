@@ -123,13 +123,13 @@ content:
         title: North Carolina State University
         caption: August 2022 - December 2023
         sub_title: Master of Computer Science
-        description: <mark>Relevant Coursework: </mark> Software Engineering, Foundations of Cryptography, Artificial Intelligence, Advance Learning and Data Analysis, Neural Networks, Computational Methods in Molecular Biology, Graph Data Mining, Computer Models of Interactive Narrative
+        description: Relevant Coursework: Software Engineering, Foundations of Cryptography, Artificial Intelligence, Advance Learning and Data Analysis, Neural Networks, Computational Methods in Molecular Biology, Graph Data Mining, Computer Models of Interactive Narrative
       
       - layout: left
         title: Indian Institute of Information Technology Allahabad
         caption: June 2014 - July 2018
         sub_title: Bachelor of Technology ( Information Technology with Honors)
-        description: <mark>Relevant Coursework: </mark> Data Mining and Warehousing, Image and Video Processing, Compiler Design, Computer Networks, Artificial Intelligence, Design and Analysis of Algorithms, Object Oriented Methodologies, Operating Systems, Data Structures and Algorithms
+        description: Relevant Coursework: Data Mining and Warehousing, Image and Video Processing, Compiler Design, Computer Networks, Artificial Intelligence, Design and Analysis of Algorithms, Object Oriented Methodologies, Operating Systems, Data Structures and Algorithms
 
 
   - title: A Little More About Me
